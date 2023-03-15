@@ -5,7 +5,6 @@ public class Game
 {
     Player player2 = new Player();
     Player player3 = new Player();
-    Player player;
     Scanner input = new Scanner(System.in);
 
     public void play()
